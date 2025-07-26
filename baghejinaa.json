@@ -18,5 +18,81 @@
         "id": "4",
         "name": "Muqallid o Ghair Muqallid mein Farq",
         "content" : "Jo mareez tabeeb se ilaaj karwaye aur sehhat yaab ho jaye usay Muqallid kehte hain.Jo atibba (doctors) se ladey, pansaari ki dukaan se apni marzi ki dawa utha kar khata rahe aur apne marz ko aisa bigaare ke phir tabeeb bhi usko la ilaaj qarar de de, usay Ghair Muqallid kehte hain."
+    },
+    {
+        "id": "5",
+        "name": "Musnad",
+        "content" : "(1) Wo kitaab jismein har sahabi ki riwayaat alag alag jama ki gayi ho. (2) Wo hadith-e-marfoo‘ jinki sanad Rasool Allah ﷺ tak muttasil ho."
+    },
+    {
+        "id": "6",
+        "name": "Sahih",
+        "content" : "Wo kitaab jiske musannif ne sirf sahih ahadith ka iltizam kiya ho, jaise Sahih Bukhari aur Sahih Muslim."
+    },
+    {
+        "id": "7",
+        "name": "Jami",
+        "content" : "Wo kitaab jismein 8 unwaanon ke tahat ahadith lai jaati hain: Seerat, Adaab, Tafsir, Aqaid, Fitn, Ahkaam, Ashraat, Manaqib. Jaise Jami‘ Tirmizi aur Sahih Bukhari."
+    },
+    {
+        "id": "8",
+        "name": "Sunan",
+        "content" : "Wo kitaab jismein sirf ahkaam se muta‘alliq ahadith hoti hain, jaise: Sunan Abi Dawood, Sunan Nasai."
+    },
+    {
+        "id": "9",
+        "name": "Mu‘jam",
+        "content" : "Wo kitaab jismein ahadith ki tarteeb mashaaikh ke naamon ke mutabiq ho, jaise: Mu‘jam Tabarani."
+    },
+    {
+        "id": "10",
+        "name": "Mustakhraj",
+        "content" : "Wo kitaab jismein kisi aur kitaab ki ahadith ko musannif ke apne shuyookh ya shaykh-ul-shaykh ki mukhtalif sanad se laaya jaye. Jaise: Mustakhraj Abi Nu‘aim ala al-Bukhari.
+"
+    },
+    {
+        "id": "11",
+        "name": "Mustadrak",
+        "content" : "Wo kitaab jismein mukhtalif abwaab ke tahat wo ahadith lai jaayein jo kisi aur musannif se chhoot gayi ho. Jaise: Mustadrak al-Haakim ala al-Sahihain."
+    },
+    {
+        "id": "12",
+        "name": "Risaalah",
+        "content" : "Wo kitaab jismein jami‘ ke 8 unwaanon mein se kisi ek unwaan ke tahat ahadith hoon. Jaise: Kitab al-Zuhd by Imam Ahmad (aadab mein), Tafsir Ibn Jarir Tabari."
+    },
+    {
+        "id": "13",
+        "name": "Juz",
+        "content" : "Wo kitaab jismein sirf ek mawzu‘ (topic) par ahadith hoon. Jaise: Juz‘ al-Qira‘ah Khalf al-Imam by Imam Bukhari."
+    },
+    {
+        "id": "14",
+        "name": "Arba‘een",
+        "content" : "Wo kitaab jismein 40 ahadith hoon. Jaise: Arba‘een Nawawi."
+    },
+    {
+        "id": "15",
+        "name": "Amaali",
+        "content" : "Wo kitaab jismein shaykh ke imlaa karwaaye huye fawaid-e-hadith hoon. Jaise: Amaali Imam Muhammad."
+    },
+    {
+        "id": "16",
+        "name": "At-Taraaf (Aṭrāf)",
+        "content" : "Wo kitaab jismein hadith ka sirf woh hissa zikr kiya jaye jo baqiya hadith par dalaalat kare, aur phir us hadith ke tamaam turuq (riwayaat ke rastaay) aur asaneed bayaan kiye jaayein. Jaise: Aṭrāf al-Kutub al-Khamsah by Abu al-‘Abbas, Aṭrāf al-Mizzi."
+    },
+    {
+        "id": "17",
+        "name": "Musannaf",
+        "content" : "Wo kitaab jismein tarteeb fiqhi abwaab ke mutabiq ho aur ismein asaar-e-sahaba, aqwaal-e-taabi‘een aur taba‘ taabi‘een bakasrat hoon. Jaise: Musannaf Ibn Abi Shaybah, Musannaf Abdul Razzaq."
+    },
+    {
+        "id": "18",
+        "name": "Sayyiduna Ali Akbar رَضِيَ اللَّهُ عَنْهُ",
+        "content" : "Sayyiduna Husain bin Ali رَضِيَ اللَّهُ عَنْهُ ka ek nikah Sayyiduna Muawiyah bin Abu Sufyan رَضِيَ اللَّهُ عَنْهُ ki behn Sayyidah Maymunah bint Abu Sufyan رَضِيَ اللَّهُ عَنْهُ ki beti Sayyidah Laila bint Abu Marrah bin Urwah bin Masood Saqafi se hua tha, jin se Janab Sayyiduna Ali Akbar رَضِيَ اللَّهُ عَنْهُ paida hue the."
+    },
+    {
+        "id": "19",
+        "name": "Sahaba par ta'an karne wala kaafir hai.",
+        "content" : "Imam Zahabi *rahmatullah alaih* apni kitaab “Kitaab al-Kabaair” mein o koi (shakhs) in (Sahaba) par ta'an kare ya unko gaali de to woh deen se kharij ho jata hai (yaani kaafir ho jata hai) aur musalmanon ki millat se bhi kharij ho jata hai."
     }
 ]
