@@ -22,6 +22,13 @@
     {
         "id": "5",
         "name": "Sahaba par ta'an karne wala kaafir hai.",
-        "content" : "Imam Zahabi *rahmatullah alaih* apni kitaab “Kitaab al-Kabaair” mein o koi (shakhs) in (Sahaba) par ta'an kare ya unko gaali de to woh deen se kharij ho jata hai (yaani kaafir ho jata hai) aur musalmanon ki millat se bhi kharij ho jata hai."
+        "content" : "Farmaan e Imam Zahabi *rahmatullah alaih* “Kitaab al-Kabaair”"
+    },
+    {
+        "id": "6",
+        "name": "Ek Aalim-e-Deen ghair Aalim Sayyid se afzal hai! Agarche Sayyid kitna hi saalih(parhezgaar) kyun na ho",
+        "content" : "Sarkar A'ala Hazrat Alaih-ir-Rahma"
     }
 ]
+
+// (index):3254 &#10060; Failed to fetch data. Showing default values. SyntaxError: Bad control character in string literal in JSON at position 2132 (line 50 column 194)
