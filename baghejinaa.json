@@ -22,7 +22,7 @@
     {
         "id": "5",
         "name": "Sahaba par ta'an karne wala kaafir hai.",
-        "content" : "Farmaan e Imam Zahabi *rahmatullah alaih* Kitaab al-Kabaair"
+        "content" : "Farmaan e Imam Zahabi *rahmatullah alaih* “Kitaab al-Kabaair”"
     },
     {
         "id": "6",
@@ -30,5 +30,3 @@
         "content" : "Sarkar A'ala Hazrat Alaih-ir-Rahma"
     }
 ]
-
-// (index):3254 &#10060; Failed to fetch data. Showing default values. SyntaxError: Bad control character in string literal in JSON at position 2132 (line 50 column 194)
