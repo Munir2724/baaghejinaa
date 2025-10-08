@@ -1,13 +1,14 @@
 [
     {
         "id": "1",
-        "name": "Sog mein asl siyah libas hai, woh toh Rafiziyon ne liya aur unhein zeiba bhi tha.",
-        "content" : "Sarkar A'ala Hazrat Alaih-ir-Rahma"
+        "name": "Shi'a is ummat ki auraten hain.",
+        "content" : "Imam Shafi'i Rahmatullah Alayh"
+        
     },
     {
         "id": "2",
-        "name": "Shi'a is ummat ki auraten hain.",
-        "content" : "Imam Shafi'i Rahmatullah Alayh"
+        "name": "Sog mein asl siyah libas hai, woh toh Rafiziyon ne liya aur unhein zeiba bhi tha.",
+        "content" : "Sarkar A'ala Hazrat Alaih-ir-Rahma"
     },
     {
         "id": "3",
@@ -16,13 +17,13 @@
     },
     {
         "id": "4",
-        "name": "Muqallid o Ghair Muqallid mein Farq",
-        "content" : "Jo mareez tabeeb se ilaaj karwaye aur sehhat yaab ho jaye usay Muqallid kehte hain.Jo atibba (doctors) se ladey, pansaari ki dukaan se apni marzi ki dawa utha kar khata rahe aur apne marz ko aisa bigaare ke phir tabeeb bhi usko la ilaaj qarar de de, usay Ghair Muqallid kehte hain."
+        "name": "Showing off is so hard to detect it's harder than to see a black ant walking on a rock at night.",
+        "content" : "Sufism"
     },
     {
         "id": "5",
         "name": "Sahaba par ta'an karne wala kaafir hai.",
-        "content" : "Farmaan e Imam Zahabi *rahmatullah alaih* “Kitaab al-Kabaair”"
+        "content" : "Kitaab al-Kabaair"
     },
     {
         "id": "6",
@@ -31,8 +32,8 @@
     },
     {
         "id": "7",
-        "name": "School/College main padhna Haram hai, agar usme Deen-e Islam ya Mazhab-e Ahlesunnat ya shariat-e mutahharah ke khilaf taleem di jaati ho",
-        "content" : "Fatawa Razviyah"
+        "name": "Shaadi Shuda Ki Do Rak'aten, Ghair Shadi Shuda Shakhs Ki 70 Rak'aton Se Afzal Hai.",
+        "content" : "(Jami us Sagheer, Page: 300, Hadees: 4867)"
     }
 ]
 
